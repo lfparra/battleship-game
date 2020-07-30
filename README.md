@@ -10,12 +10,12 @@ To run the program you must do the following:
 
 ### `Clone repository`
 
-Cloanr repository from [https://github.com/lfparra/battleship-game.git]
+Clone repository from [https://github.com/lfparra/battleship-game.git]
 
-### `Run script npm install`
+### `Run script "npm install"`
 
   With this script the dependencies and libraries will be installed, according to the package.json file
 
-### `Run npm start program`
+### `Run program with "npm start"`
 
-The application is run in development mode at [http: // localhost: 3000] to view it in the browser.
+The application is run in development mode at [http://localhost:3000] to view it in the browser.
