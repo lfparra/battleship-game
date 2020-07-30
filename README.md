@@ -1,6 +1,6 @@
 ## Battle Ship Game
 
-Project carried out with React and the Bootstrap library for the design of the application.
+Project carried out with React and Bootstrap library for the design of the application.
 
 Battle Ship is a strategy game. Whoever sinks the enemy fleet first wins.
 
